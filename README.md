@@ -1,5 +1,5 @@
 # SuspensionDataProject
-Personally project to make my own suspension acquisition device for my bicycle
+Personal project to make my own suspension acquisition device for my bicycle
 
 Not very far at all in this project, currently I have done:
 - acquired a linear encoder to get positional data
